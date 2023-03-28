@@ -4,14 +4,14 @@ const topDesserts = [
         id: "1",
         title: "lemon ice cream",
         description: "mind blowing taste",
-        image: "https://picsum.photos/200/300/?random",
+        image: "https://picsum.photos/400/400/?random",
         price: "$4.60"
     },
     {
         id: "2",
         title: "chocolate yoghurt",
         description: "unexplored flavour",
-        image: "https://picsum.photos/200/300/?random",
+        image: "https://picsum.photos/400/400/?random",
         price: "$4.60"
     }
 ]
