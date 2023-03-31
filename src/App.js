@@ -10,6 +10,8 @@ import Goals from "./lessons/Goals";
 import UseReducer from "./lessons/UserReducer";
 import UseRef from "./lessons/UseRef";
 import Children from "./lessons/Children";
+import Hoc from "./lessons/Hoc";
+import Feedback from "./lessons/Feedback";
 
 
 
@@ -28,6 +30,8 @@ function App() {
           <Route exact path="/useReducer" element={<UseReducer />} />
           <Route exact path="/useRef" element={<UseRef />} />
           <Route exact path="/children" element={<Children />} />
+          <Route exact path="/hoc" element={<Hoc />} />
+          <Route exact path="/feedback" element={<Feedback />} />
         </Routes>
       </Router>
 
